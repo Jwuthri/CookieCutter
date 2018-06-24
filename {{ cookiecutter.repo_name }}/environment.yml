@@ -10,6 +10,6 @@ dependencies:
     - opencv3
     - seaborn
     - pandas
-    - sklearn
+    - scikit-learn
     - pip:
         - tensorflow
