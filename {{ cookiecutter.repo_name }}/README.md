@@ -3,6 +3,12 @@
 
 {{cookiecutter.description}}
 
+Create the environment
+======================
+
+conda env create -f environment.yml
+
+
 Project Organization
 ------------
 
